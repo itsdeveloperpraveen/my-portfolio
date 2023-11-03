@@ -1,0 +1,46 @@
+.intro {
+    height: 90vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.greeting {
+    color: #2AD882;
+    font-size: 25px;
+}
+
+.introduce {
+    color: white;
+    font-size: 60px;
+}
+.textMessage{
+    padding-top: 220px;
+}
+.MainDiv{
+    height: 60px;
+    width: 320px;
+    border: solid 3px #2AD882;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.content{
+    font-size: 25px;
+    padding-right: 22px;
+    color: white;
+    
+
+}
+.arrow{
+    height: 100%;
+    width: 60px;
+    font-size: 35px;
+    padding-left: 12px;
+    background-color: #2AD882;
+}
+.image{
+    height: 90vh;
+    padding-top: 50px;
+    width: auto;
+}

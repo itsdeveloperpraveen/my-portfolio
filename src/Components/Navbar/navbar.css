@@ -1,0 +1,39 @@
+.navbar {
+    height: 10vh;
+    color: #1F242B;
+    font-weight: bold;
+    background-color: #2AD882;
+    display: flex;
+    justify-content: space-around;
+}
+.nav{
+    width: 80vh;
+    display: flex;
+    padding-left: 100px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logoImage {
+    height: 62px;
+    width: auto;
+}
+
+.img {
+    height: 18px;
+    width: 18px;
+    cursor: pointer;
+
+}
+
+.Contacts {
+    width: 150px;
+    display: flex;
+    color: #1F242B;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+}
+ul{
+    list-style: none;
+}

@@ -1,0 +1,50 @@
+.contact {
+    height: 100vh;
+    color: white;
+    border-top: 2px solid #2AD882;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contactColorLayer {
+    position: relative;
+    height: 350px;
+    width: 350px;
+    margin: 120px 170px 0px 150px;
+    background-color: #2AD882;
+}
+
+.contactImage{
+    position: absolute;
+    height: 350px;
+    width: 350px;
+    margin: -390px 100px 0px 190px;
+}
+
+.contactMe {
+    display: inline-flex;
+    align-items: center;
+}
+
+.contactMeText {
+    font-size: 50px;
+}
+
+.contactLine {
+    height: 3px;
+    margin-left: 20px;
+    width: 300px;
+    background: #2AD882;
+}
+.contactDetails {
+    height: 150px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.contactDetail {
+    width: 475px;
+    color: #2AD882;
+    font-size: 25px;
+}
